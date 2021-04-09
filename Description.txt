@@ -1,0 +1,4 @@
+This is just a simple application built using rest and kafka which consist of a rest controller,kafka-producer and kafka-consumer
+To run this application just run the main file and as the server starts data can be published in 2 ways i.e
+1)directly using kafka-producer from terminal (kafka-console-producer --broker-list localhost:9092 --topic first_topic)
+2)using HTTP method post from postman(url: localhost:9000/kafka/publish) and providing the paramater in form of string message
