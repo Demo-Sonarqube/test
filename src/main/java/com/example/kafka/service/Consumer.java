@@ -18,5 +18,6 @@ public class Consumer implements IConsumer{
     }
     public void abc()
     {
+        System.out.println("");
     }
 }
