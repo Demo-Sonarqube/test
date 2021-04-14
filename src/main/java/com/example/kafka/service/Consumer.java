@@ -25,7 +25,7 @@ public class Consumer implements IConsumer{
     
     public void bc()
     {
-        
+        System.out.println("");
     }
    
 }
