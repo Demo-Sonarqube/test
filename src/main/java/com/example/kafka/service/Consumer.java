@@ -20,11 +20,12 @@ public class Consumer implements IConsumer{
     
     public void abc()
     {
+        System.out.println("");
     }
     
     public void bc()
     {
-        System.out.println("");
+        
     }
    
 }
