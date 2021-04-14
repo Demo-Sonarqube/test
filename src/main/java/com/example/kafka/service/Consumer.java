@@ -17,5 +17,14 @@ public class Consumer implements IConsumer{
     public void consume(String message) {
         System.out.println("consumed "+message);
     }
+    
+    public void abc()
+    {
+    }
+    
+    public void bc()
+    {
+        System.out.println("");
+    }
    
 }
