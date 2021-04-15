@@ -5,8 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Deque;
-import java.util.Collection;
-import java.util.Iterator;
+
 
 
 import org.springframework.kafka.annotation.KafkaListener;
